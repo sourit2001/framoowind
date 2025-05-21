@@ -1,0 +1,18 @@
+{
+  "tagline": "Bibliothèque de cadres artistiques",
+  "search_placeholder": "Rechercher des cadres...",
+  "all_categories": "Toutes les catégories",
+  "category_vintage": "Vintage",
+  "category_cute": "Mignon",
+  "category_modern": "Moderne",
+  "category_elegant": "Élégant",
+  "no_results": "Aucun cadre correspondant trouvé",
+  "error_loading_images": "Erreur lors du chargement des images",
+  "category": "Catégorie",
+  "dimensions": "Dimensions",
+  "description": "Description",
+  "download": "Télécharger",
+  "language": "Langue",
+  "footer_text": "© 2025 Framoo - Plateforme de téléchargement de cadres simple et belle",
+  "modal_close": "Fermer"
+}

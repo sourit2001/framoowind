@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Framoo - 艺术边框素材库</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@400;500;600&display=swap">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <h1>Framoo</h1>
+            <p class="tagline" data-i18n="tagline">艺术边框素材库</p>
+        </div>
+        
+        <div class="language-selector">
+            <button class="current-language">简体中文 ▼</button>
+            <div class="language-dropdown">
+                <a href="#" data-lang="zh-CN" class="active">简体中文</a>
+                <a href="#" data-lang="zh-TW">繁體中文</a>
+                <a href="#" data-lang="en">English</a>
+                <a href="#" data-lang="ja">日本語</a>
+                <a href="#" data-lang="ko">한국어</a>
+                <a href="#" data-lang="fr">Français</a>
+                <a href="#" data-lang="de">Deutsch</a>
+            </div>
+        </div>
+    </header>
+    
+    <main>
+        <section class="filters">
+            <div class="search-container">
+                <input type="text" id="search" placeholder="搜索边框..." data-i18n="search_placeholder">
+                <button class="search-btn">🔍</button>
+            </div>
+            
+            <div class="category-filters">
+                <button class="filter-btn active" data-category="all" data-i18n="all_categories">所有分类</button>
+                <button class="filter-btn" data-category="borders" data-i18n="category_borders">边框</button>
+                <button class="filter-btn" data-category="cute" data-i18n="category_cute">可爱</button>
+                <button class="filter-btn" data-category="vintage" data-i18n="category_vintage">复古</button>
+                <button class="filter-btn" data-category="modern" data-i18n="category_modern">现代</button>
+                <button class="filter-btn" data-category="elegant" data-i18n="category_elegant">优雅</button>
+            </div>
+        </section>
+        
+        <section class="image-grid" id="image-grid">
+            <!-- 图片将通过JavaScript动态加载 -->
+        </section>
+    </main>
+    
+    <!-- 图片详情弹窗 -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modal-title"></h2>
+                <button class="close-btn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-image-container">
+                    <img src="" alt="" class="modal-image" id="modal-image">
+                </div>
+                <div class="modal-info">
+                    <div class="info-item">
+                        <div class="info-label" data-i18n="category">分类</div>
+                        <div class="info-value" id="category"></div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label" data-i18n="dimensions">尺寸</div>
+                        <div class="info-value" id="dimensions"></div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label" data-i18n="description">描述</div>
+                        <div class="info-value" id="description"></div>
+                    </div>
+                    <div class="download-section">
+                        <button class="download-button" id="download-btn" data-i18n="download">
+                            下载
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p data-i18n="footer_text">© 2025 Framoo 艺术边框素材库 - 简单、美观的边框下载平台</p>
+    </footer>
+    
+    <script src="js/main.js"></script>
+</body>
+</html>

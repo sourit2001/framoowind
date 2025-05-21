@@ -1,0 +1,62 @@
+{
+  "siteName": "Framoo",
+  "version": "1.0.0",
+  "defaultLanguage": "zh-CN",
+  "supportedLanguages": [
+    {
+      "code": "zh-CN",
+      "name": "简体中文"
+    },
+    {
+      "code": "zh-TW",
+      "name": "繁體中文"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    },
+    {
+      "code": "ko",
+      "name": "한국어"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "categories": [
+    {
+      "id": "vintage",
+      "icon": "🕰️"
+    },
+    {
+      "id": "cute",
+      "icon": "🌸"
+    },
+    {
+      "id": "modern",
+      "icon": "🔷"
+    },
+    {
+      "id": "elegant",
+      "icon": "✨"
+    }
+  ],
+  "imageSettings": {
+    "standardDimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "format": "png",
+    "dpi": 300
+  },
+  "pageSize": 12
+}

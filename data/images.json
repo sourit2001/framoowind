@@ -1,0 +1,154 @@
+[
+  {
+    "id": "frame_001",
+    "filename": "IMG_1096.JPG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["复古", "老式", "怀旧"],
+    "description": {
+      "zh-CN": "复古风格拍立得边框",
+      "zh-TW": "復古風格拍立得邊框",
+      "en": "Vintage polaroid frame",
+      "ja": "ビンテージポラロイドフレーム",
+      "ko": "빈티지 폴라로이드 프레임",
+      "fr": "Cadre polaroid vintage",
+      "de": "Vintage-Polaroid-Rahmen"
+    }
+  },
+  {
+    "id": "frame_002",
+    "filename": "IMG_1103.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "cute",
+    "tags": ["可爱", "粉色", "花朵"],
+    "description": {
+      "zh-CN": "粉色花朵边框",
+      "zh-TW": "粉色花朵邊框",
+      "en": "Pink floral frame",
+      "ja": "ピンクの花のフレーム",
+      "ko": "핑크 꽃 프레임",
+      "fr": "Cadre floral rose",
+      "de": "Rosa Blumenrahmen"
+    }
+  },
+  {
+    "id": "frame_003",
+    "filename": "IMG_1108.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["简约", "几何", "现代"],
+    "description": {
+      "zh-CN": "现代几何边框",
+      "zh-TW": "現代幾何邊框",
+      "en": "Modern geometric frame",
+      "ja": "モダンな幾何学的フレーム",
+      "ko": "현대적 기하학 프레임",
+      "fr": "Cadre géométrique moderne",
+      "de": "Moderner geometrischer Rahmen"
+    }
+  },
+  {
+    "id": "frame_004",
+    "filename": "IMG_1141.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["优雅", "金色", "高贵"],
+    "description": {
+      "zh-CN": "金色花纹边框",
+      "zh-TW": "金色花紋邊框",
+      "en": "Golden floral pattern frame",
+      "ja": "金色の花柄フレーム",
+      "ko": "황금 꽃무늬 프레임",
+      "fr": "Cadre à motifs floraux dorés",
+      "de": "Goldener Blumenmuster-Rahmen"
+    }
+  },
+  {
+    "id": "frame_005",
+    "filename": "IMG_1155.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["复古", "纸张", "做旧"],
+    "description": {
+      "zh-CN": "做旧纸张边框",
+      "zh-TW": "做舊紙張邊框",
+      "en": "Aged paper frame",
+      "ja": "ヴィンテージ紙フレーム",
+      "ko": "빈티지 종이 프레임",
+      "fr": "Cadre en papier vieilli",
+      "de": "Gealterte Papierrahmen"
+    }
+  },
+  {
+    "id": "frame_006",
+    "filename": "frame_006.png",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "cute",
+    "tags": ["可爱", "卡通", "动物"],
+    "description": {
+      "zh-CN": "卡通动物边框",
+      "zh-TW": "卡通動物邊框",
+      "en": "Cartoon animal frame",
+      "ja": "漫画の動物フレーム",
+      "ko": "만화 동물 프레임",
+      "fr": "Cadre d'animaux de dessin animé",
+      "de": "Cartoon-Tierrahmen"
+    }
+  },
+  {
+    "id": "frame_007",
+    "filename": "frame_007.png",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["简约", "黑白", "线条"],
+    "description": {
+      "zh-CN": "简约线条边框",
+      "zh-TW": "簡約線條邊框",
+      "en": "Minimalist line frame",
+      "ja": "ミニマリストラインフレーム",
+      "ko": "미니멀리스트 라인 프레임",
+      "fr": "Cadre de ligne minimaliste",
+      "de": "Minimalistischer Linienrahmen"
+    }
+  },
+  {
+    "id": "frame_008",
+    "filename": "frame_008.png",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["优雅", "大理石", "纹理"],
+    "description": {
+      "zh-CN": "大理石纹理边框",
+      "zh-TW": "大理石紋理邊框",
+      "en": "Marble texture frame",
+      "ja": "大理石のテクスチャフレーム",
+      "ko": "대리석 텍스처 프레임",
+      "fr": "Cadre à texture marbrée",
+      "de": "Marmor-Textur-Rahmen"
+    }
+  }
+]
