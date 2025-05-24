@@ -202,6 +202,139 @@ const inlineImagesData = [
       "zh-TW": "彩色氣泡邊框",
       "en": "Colorful bubble frame"
     }
+  },
+  {
+    "id": "frame_006",
+    "filename": "IMG_1201.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["时尚", "带状", "流行"],
+    "description": {
+      "zh-CN": "时尚流线边框",
+      "zh-TW": "時尚流線邊框",
+      "en": "Fashionable flowing border",
+      "ko": "패션너블한 흐르는 테두리",
+      "ja": "ファッショナブルな流れるフレーム",
+      "fr": "Bordure élégante fluide",
+      "de": "Modischer fließender Rahmen"
+    }
+  },
+  {
+    "id": "frame_007",
+    "filename": "IMG_1202.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "elegant",
+    "tags": ["优雅", "金色", "豪华"],
+    "description": {
+      "zh-CN": "金色经典边框",
+      "zh-TW": "金色經典邊框",
+      "en": "Golden classic frame",
+      "ko": "골든 클래식 프레임",
+      "ja": "ゴールデンクラシックフレーム",
+      "fr": "Cadre classique doré",
+      "de": "Goldener klassischer Rahmen"
+    }
+  },
+  {
+    "id": "frame_008",
+    "filename": "IMG_1203.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "elegant",
+    "tags": ["典雅", "花纹", "艺术"],
+    "description": {
+      "zh-CN": "典雅花纹边框",
+      "zh-TW": "典雅花紋邊框",
+      "en": "Elegant floral frame",
+      "ko": "우아한 꽃무늬 프레임",
+      "ja": "エレガントな花柄フレーム",
+      "fr": "Cadre floral élégant",
+      "de": "Eleganter Blumenrahmen"
+    }
+  },
+  {
+    "id": "frame_009",
+    "filename": "IMG_1204.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["清新", "简约", "自然"],
+    "description": {
+      "zh-CN": "简约可爱边框",
+      "zh-TW": "簡約可愛邊框",
+      "en": "Simple cute border",
+      "ko": "심플 귀여운 테두리",
+      "ja": "シンプルで可愛いフレーム",
+      "fr": "Bordure simple et mignonne",
+      "de": "Einfacher niedlicher Rahmen"
+    }
+  },
+  {
+    "id": "frame_010",
+    "filename": "IMG_1205.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["复古", "科技", "未来"],
+    "description": {
+      "zh-CN": "未来科技边框",
+      "zh-TW": "未來科技邊框",
+      "en": "Futuristic tech frame",
+      "ko": "미래지향적 기술 프레임",
+      "ja": "未来的なテクノロジーフレーム",
+      "fr": "Cadre technologique futuriste",
+      "de": "Futuristischer Tech-Rahmen"
+    }
+  },
+  {
+    "id": "frame_011",
+    "filename": "IMG_1206.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["自然", "模糊", "水彩"],
+    "description": {
+      "zh-CN": "水彩模糊边框",
+      "zh-TW": "水彩模糊邊框",
+      "en": "Watercolor blur frame",
+      "ko": "수채화 흐림 프레임",
+      "ja": "水彩画風フレーム",
+      "fr": "Cadre flou à l'aquarelle",
+      "de": "Aquarell-Unschärfe-Rahmen"
+    }
+  },
+  {
+    "id": "frame_012",
+    "filename": "IMG_1208.PNG",
+    "dimensions": {
+      "width": 800,
+      "height": 1000
+    },
+    "category": "borders",
+    "tags": ["绝美", "珍藏", "精致"],
+    "description": {
+      "zh-CN": "精致珍藏边框",
+      "zh-TW": "精緻珍藏邊框",
+      "en": "Exquisite collector's frame",
+      "ko": "정교한 커렉터 프레임",
+      "ja": "精巧なコレクターズフレーム",
+      "fr": "Cadre exquis de collectionneur",
+      "de": "Exquisiter Sammlerrahmen"
+    }
   }
 ];
 
