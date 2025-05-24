@@ -481,10 +481,6 @@ function renderImageGrid(filter = 'all', searchQuery = '') {
             <div class="card-img-container">
                 <img src="images/${img.category}/${img.filename}" alt="${localizedDescription}" class="card-img">
             </div>
-            <div class="card-info">
-                <div class="card-title">${localizedDescription}</div>
-                <div class="card-category">${categoryName}</div>
-            </div>
         `;
         
         // 添加点击事件
